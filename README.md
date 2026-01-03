@@ -13,6 +13,7 @@
 💡 **Adarsh Raj**  
 💡 **Ronak Kumar Sahu**  
 💡 **Bhumik Desai**
+
 **Team Eternum** is a passionate and collaborative group of developers formed for **HackNITR**.  
 We believe in building **impact-driven, scalable, and socially relevant solutions** that address real-world problems.
 
