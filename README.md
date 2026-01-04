@@ -40,7 +40,7 @@ Most existing solutions only **track carbon footprints** — they do not **encou
 ---
 
 ## 💡 Our Solution – EcoTrack
-**EcoTrack** is a **reward-based sustainability platform** that motivates users to adopt eco-friendly habits by converting their daily actions into **Climate Credits**.
+**EcoTrack** is a **reward-based sustainability platform** that motivates users to adopt eco-friendly habits by converting their daily actions into **Climate Credits**. HERE CREDITS = POINTS
 
 Instead of penalties or restrictions, EcoTrack uses **positive reinforcement and gamification** to promote sustainable behavior.
 
