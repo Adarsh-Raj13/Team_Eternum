@@ -54,18 +54,18 @@ Instead of penalties or restrictions, EcoTrack uses **positive reinforcement and
 - Total Climate Credits earned
 - CO₂ reduction summary
 - Activity history
-- Progress insights
+- Current Streak
 
 ---
 
 ### 🚶 Walking Credits
-- Users earn credits for choosing walking or cycling over motor vehicles
-- Credits are calculated using CO₂ avoidance logic
+- Users earn points for choosing walking over motor vehicles
+- Points are calculated using CO₂ avoidance logic
 
 ---
 
 ### 🌳 Tree Plantation Credits
-- Credits are awarded in **stages**:
+- Points are awarded in **stages**:
   - Sapling planted
   - Survival confirmation
 - Encourages **real and sustainable tree growth**, not symbolic actions
@@ -87,7 +87,7 @@ Instead of penalties or restrictions, EcoTrack uses **positive reinforcement and
 ---
 
 ## 🏛️ System Vision(Future)
-EcoTrack follows a **UPI-like sustainability model**:
+EcoTrack follows a **sustainability model**:
 
 - **Central Authority (Conceptual):** Government-level standards and policies  
 - **Local Admin:** Campus / organization / community  
@@ -143,9 +143,7 @@ EcoTrack aims to:
 This repository contains:
 - Source code
 - Documentation
-- Demo assets
-- Hackathon submission resources
-
+  
 ---
 
 ### 💪 Built with dedication by **Team_Eternum_-HackNITR-**  
